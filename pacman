@@ -421,8 +421,6 @@ libxxf86vm
 licenses
 linux
 linux-api-headers
-linux-ck-corex
-linux-ck-corex-headers
 linux-firmware
 linux-headers
 lirc-utils
@@ -467,6 +465,7 @@ nss
 nss-mdns
 ntfs-3g
 ntfsprogs
+oblogout
 openal
 opencore-amr
 openexr
@@ -521,6 +520,8 @@ pycrypto
 pygobject2-devel
 pygtk
 python
+python-distutils-extra
+python-imaging
 python2
 python2-cairo
 python2-distribute
