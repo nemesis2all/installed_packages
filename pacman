@@ -125,6 +125,7 @@ giblib
 giflib
 gimp
 git
+gitg
 gksu
 glew
 glib-networking
@@ -173,6 +174,7 @@ gtk-update-icon-cache
 gtk2
 gtk3
 gtkmm
+gtksourceview3
 gucharmap
 gvfs
 gzip
