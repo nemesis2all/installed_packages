@@ -16,7 +16,6 @@ apr-util
 arandr
 arch-wiki-lite
 archey3
-archlinux-slim-special-theme-dark-gallery
 arj
 aspell
 ati-dri
@@ -203,7 +202,6 @@ inputproto
 intltool
 inxi
 iproute2
-iptables
 iputils
 irssi
 isl
@@ -465,7 +463,6 @@ nss
 nss-mdns
 ntfs-3g
 ntfsprogs
-oblogout
 openal
 opencore-amr
 openexr
@@ -520,8 +517,6 @@ pycrypto
 pygobject2-devel
 pygtk
 python
-python-distutils-extra
-python-imaging
 python2
 python2-cairo
 python2-distribute
@@ -557,15 +552,12 @@ shadow
 shared-color-profiles
 shared-desktop-ontologies
 shared-mime-info
-slim
-slimlock
 smbclient
 soprano
 soundtouch
 speex
 sqlite3
 squashfs-tools
-sshguard
 startup-notification
 strigi
 subversion
@@ -631,15 +623,9 @@ xcompmgr
 xdg-user-dirs
 xdg-utils
 xextproto
-xf86-input-acecad
-xf86-input-aiptek
 xf86-input-evdev
-xf86-input-joystick
 xf86-input-keyboard
 xf86-input-mouse
-xf86-input-synaptics
-xf86-input-vmmouse
-xf86-input-void
 xf86-video-ati
 xf86dgaproto
 xf86vidmodeproto
