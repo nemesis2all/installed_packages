@@ -518,6 +518,7 @@ pycrypto
 pygobject2-devel
 pygtk
 python
+python-distribute
 python2
 python2-cairo
 python2-distribute
