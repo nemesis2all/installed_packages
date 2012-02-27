@@ -315,6 +315,7 @@ libiodbc
 libirman
 libisofs
 libjpeg-turbo
+libkate
 libksba
 libldap
 liblrdf
@@ -366,11 +367,13 @@ libsoup
 libsoup-gnome
 libssh2
 libstdc++5
+libtar
 libtasn1
 libtextcat
 libthai
 libtheora
 libtiff
+libtiger
 libtirpc
 libtool-multilib
 libunique3
