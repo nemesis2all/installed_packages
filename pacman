@@ -102,7 +102,6 @@ fixesproto
 flac
 flashplugin-beta
 flex
-fluidsynth
 fontconfig
 fontsproto
 freeglut
@@ -232,7 +231,6 @@ lib32-expat
 lib32-gcc-libs
 lib32-glib2
 lib32-glibc
-lib32-kmod
 lib32-libffi
 lib32-libltdl
 lib32-libstdc++5
@@ -250,7 +248,6 @@ lib32-openal
 lib32-pcre
 lib32-sdl
 lib32-udev
-lib32-util-linux
 lib32-zlib
 libarchive
 libass
@@ -367,7 +364,6 @@ libsoup
 libsoup-gnome
 libssh2
 libstdc++5
-libtar
 libtasn1
 libtextcat
 libthai
@@ -525,7 +521,6 @@ pycrypto
 pygobject2-devel
 pygtk
 python
-python-distribute
 python2
 python2-cairo
 python2-distribute
