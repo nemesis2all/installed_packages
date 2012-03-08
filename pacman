@@ -461,6 +461,7 @@ namcap
 nano
 ncurses
 neon
+net-snmp
 nettle
 nspr
 nss
@@ -605,7 +606,6 @@ virtualbox
 virtualbox-additions
 virtualbox-ext-oracle
 virtualbox-modules
-virtualbox-source
 virtuoso
 vlc
 volumeicon
