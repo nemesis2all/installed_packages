@@ -123,6 +123,8 @@ gettext
 giblib
 giflib
 gimp
+girara-common
+girara-gtk2
 git
 gitg
 gksu
@@ -508,9 +510,6 @@ pm-quirks
 pm-utils
 polkit
 polkit-qt
-poppler
-poppler-data
-poppler-glib
 popt
 ppl
 ppp
