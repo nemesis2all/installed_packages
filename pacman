@@ -511,6 +511,9 @@ pm-quirks
 pm-utils
 polkit
 polkit-qt
+poppler
+poppler-data
+poppler-glib
 popt
 ppl
 ppp
@@ -693,6 +696,7 @@ xvidcore
 xz
 yajl
 zathura
+zathura-pdf-poppler
 zenity
 zip
 zlib
