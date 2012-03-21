@@ -82,6 +82,7 @@ dri2proto
 dvdauthor
 e2fsprogs
 eject
+elfutils
 enca
 enchant
 eventlog
@@ -525,6 +526,7 @@ pycrypto
 pygobject2-devel
 pygtk
 python
+python-pyelftools
 python2
 python2-cairo
 python2-distribute
