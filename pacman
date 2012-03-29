@@ -144,7 +144,6 @@ gnome-icon-theme-symbolic
 gnome-keyring
 gnome-menus
 gnupg
-gnupg2
 gnutls
 gobject-introspection
 gperf
@@ -287,7 +286,6 @@ libedit
 libev
 libevent
 libexif
-libfetch
 libffi
 libfm
 libfontenc
