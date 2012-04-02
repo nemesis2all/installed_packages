@@ -659,7 +659,6 @@ xorg-server-utils
 xorg-sessreg
 xorg-setxkbmap
 xorg-smproxy
-xorg-util-macros
 xorg-utils
 xorg-x11perf
 xorg-xauth
