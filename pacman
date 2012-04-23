@@ -115,6 +115,7 @@ gawk
 gcc-libs-multilib
 gcc-multilib
 gconf
+gcr
 gd
 gdbm
 gdk-pixbuf2
@@ -250,7 +251,6 @@ lib32-ncurses
 lib32-openal
 lib32-pcre
 lib32-sdl
-lib32-udev
 lib32-zlib
 libarchive
 libass
@@ -291,7 +291,6 @@ libfm
 libfontenc
 libftdi
 libgcrypt
-libgdu
 libgksu
 libgl
 libglade
@@ -521,6 +520,7 @@ psmisc
 pth
 pyalpm
 pycrypto
+pygobject-devel
 pygobject2-devel
 pygtk
 python
@@ -528,6 +528,7 @@ python-pyelftools
 python2
 python2-cairo
 python2-distribute
+python2-gobject
 python2-gobject2
 python2-zope-interface
 pyxdg
@@ -591,6 +592,7 @@ twisted
 tzdata
 udev
 udisks
+udisks2
 unixodbc
 unrar
 unzip
