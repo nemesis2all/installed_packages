@@ -74,6 +74,7 @@ diffutils
 dirmngr
 dmenu
 dmxproto
+dnssec-anchors
 dnsutils
 docbook-xml
 docbook-xsl
@@ -225,6 +226,7 @@ ladspa
 lame
 lcms
 lcms2
+ldns
 leafpad
 less
 lib32-acl
@@ -237,6 +239,7 @@ lib32-glib2
 lib32-glibc
 lib32-libffi
 lib32-libltdl
+lib32-libmikmod
 lib32-libstdc++5
 lib32-libusb
 lib32-libusb-compat
@@ -320,6 +323,7 @@ liblrdf
 libltdl
 libmad
 libmatroska
+libmikmod
 libmms
 libmng
 libmodplug
@@ -397,6 +401,7 @@ libxcursor
 libxdamage
 libxdmcp
 libxext
+libxfce4ui
 libxfce4util
 libxfcegui4
 libxfixes
