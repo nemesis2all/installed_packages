@@ -148,7 +148,6 @@ gnome-menus
 gnupg
 gnutls
 gobject-introspection
-gperf
 gpgme
 gpm
 grantlee
@@ -190,6 +189,7 @@ hspell
 hsqldb-java
 htop
 hunspell
+hwids
 hyphen
 i3-wm
 i3lock
