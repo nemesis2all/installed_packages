@@ -447,6 +447,7 @@ man-db
 man-pages
 mcpp
 mdadm
+media-player-info
 meld
 memtest86+
 mencoder
@@ -580,6 +581,7 @@ swt
 sysfsutils
 syslinux
 syslog-ng
+systemd-tools
 sysvinit
 taglib
 talloc
@@ -595,7 +597,6 @@ ttf-ms-fonts
 tumbler
 twisted
 tzdata
-udev
 udisks
 udisks2
 unixodbc
