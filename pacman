@@ -16,6 +16,7 @@ apr-util
 arandr
 arch-wiki-lite
 archey3
+archlinux-keyring
 arj
 aspell
 ati-dri
@@ -379,8 +380,8 @@ libtirpc
 libtool-multilib
 libunique3
 libupnp
-libusb
 libusb-compat
+libusbx
 libva
 libvdpau
 libvisual
@@ -475,6 +476,7 @@ nss
 nss-mdns
 ntfs-3g
 ntfsprogs
+ntp
 openal
 opencore-amr
 openexr
@@ -625,6 +627,7 @@ wget
 wgetpaste
 which
 whois
+wildmidi
 wireless_tools
 wpa_supplicant
 x264
