@@ -62,7 +62,6 @@ db
 dbus
 dbus-core
 dbus-glib
-dbus-python
 dconf
 deadbeef
 desktop-file-utils
@@ -221,6 +220,7 @@ kbd
 kbproto
 kdelibs
 keyutils
+khrplatform-devel
 kmod
 krb5
 ladspa
@@ -287,6 +287,7 @@ libdvdnav
 libdvdread
 libebml
 libedit
+libegl
 libev
 libevent
 libexif
@@ -494,6 +495,7 @@ packer
 pacman
 pacman-mirrorlist
 pam
+pambase
 pango
 pangomm
 parcellite
@@ -532,9 +534,11 @@ pygobject-devel
 pygobject2-devel
 pygtk
 python
+python-dbus-common
 python-pyelftools
 python2
 python2-cairo
+python2-dbus
 python2-distribute
 python2-gobject
 python2-gobject2
