@@ -321,6 +321,7 @@ libjpeg-turbo
 libkate
 libksba
 libldap
+liblqr
 liblrdf
 libltdl
 libmad
@@ -371,6 +372,7 @@ libsoup
 libsoup-gnome
 libssh2
 libstdc++5
+libsystemd
 libtasn1
 libtextcat
 libthai
@@ -542,8 +544,8 @@ python2-dbus
 python2-distribute
 python2-gobject
 python2-gobject2
+python2-xdg
 python2-zope-interface
-pyxdg
 qca
 qt
 qtwebkit
