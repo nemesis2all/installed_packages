@@ -154,8 +154,8 @@ grantlee
 graphite
 grep
 groff
-grub2-bios
-grub2-common
+grub-bios
+grub-common
 gsettings-desktop-schemas
 gsfonts
 gsimplecal
@@ -626,6 +626,7 @@ virtualbox-additions
 virtualbox-ext-oracle
 virtualbox-modules
 virtuoso
+virtuoso-base
 vlc
 volumeicon
 wavpack
